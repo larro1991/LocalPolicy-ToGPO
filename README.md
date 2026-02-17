@@ -180,6 +180,16 @@ This is a deliberate design choice. Automatically deleting local rules during mi
 | No automatic GPO linking | Linking is a policy decision the admin must make deliberately |
 | No local rule cleanup | Removing local rules is irreversible and should be a conscious choice |
 
+## Feedback & Contributions
+
+This tool was built to solve real admin pain points. If you have ideas for improvement, find a bug, or want to suggest a feature:
+
+- **Open an issue** on this repo — [Issues](../../issues)
+- Feature requests, bug reports, and general feedback are all welcome
+- Pull requests are appreciated if you want to contribute directly
+
+If you find this useful, check out my other tools at [larro1991.github.io](https://larro1991.github.io)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
